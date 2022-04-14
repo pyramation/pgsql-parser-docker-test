@@ -1,0 +1,20 @@
+# project files
+test
+.gitignore
+.travis.yml
+package.json
+build
+docker
+libpg_query/**/*.a
+libpg_query/**/*.h
+
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules
+
+# npm package lock
+package-lock.json
+yarn.lock
+

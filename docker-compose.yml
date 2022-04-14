@@ -1,0 +1,5 @@
+version: '2'
+services:
+    pgsql_parser:
+        build: ./docker
+        image: pyramation/pgsql_parser
